@@ -1,5 +1,7 @@
 # go
 Задание для курса Введение в Go
+
+
 /* Client scripts module */
 // declare const alert: any
 declare const console: any
